@@ -62,8 +62,17 @@ SPECTRE-DIV OS হলো একটি কাস্টম বিল্ট ESP32 �
 
 ---
 
-## 🎥 Demo Preview
+## 📸 Project Screenshots
 
+<p align="center">
+  <img src="images/1.jpg" width="45%" alt="Display Setup" />
+  <img src="images/2.jpg" width="45%" alt="Color Test" />
+</p>
+
+<p align="center">
+  <img src="images/3.jpg" width="45%" alt="UI Interface" />
+  <img src="images/4.jpg" width="45%" alt="Hardware" />
+</p>
 
 ---
 
